@@ -1,3 +1,3 @@
-# Homework 1 Description
+# Data Analysis
 
-Here are the files for my first Homework! HW1 Excel contains the Excel file with the data and charts and HW1 Word contains my homework answers
+This repository contains an exercise and examples on best practices in Data Science. Example documents are excel files of financial data.
